@@ -1,0 +1,14 @@
+{
+  "name": "VozLimpia",
+  "short_name": "VozLimpia",
+  "description": "Dictado por voz con limpieza automática y pulido con IA",
+  "lang": "es",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6f6",
+  "theme_color": "#0b6b73",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
